@@ -1,0 +1,1032 @@
+
+You are accessing a machine-readable page. In order to be human-readable, please install an RSS reader.
+
+
+All articles published by MDPI are made immediately available worldwide under an open access license. No special
+permission is required to reuse all or part of the article published by MDPI, including figures and tables. For
+articles published under an open access Creative Common CC BY license, any part of the article may be reused without
+permission provided that the original article is clearly cited. For more information, please refer to
+https://www.mdpi.com/openaccess.
+
+
+Feature papers represent the most advanced research with significant potential for high impact in the field. A Feature
+Paper should be a substantial original Article that involves several techniques or approaches, provides an outlook for
+future research directions and describes possible research applications.
+
+
+Feature papers are submitted upon individual invitation or recommendation by the scientific editors and must receive
+positive feedback from the reviewers.
+
+
+Editor’s Choice articles are based on recommendations by the scientific editors of MDPI journals from around the world.
+Editors select a small number of articles recently published in the journal that they believe will be particularly
+interesting to readers, or important in the respective research area. The aim is to provide a snapshot of some of the
+most exciting work published in the various research areas of the journal.
+
+
+
+
+
+
+Find support for a specific problem in the support section of our website.
+
+
+Please let us know what you think of our products and services.
+
+
+Visit our dedicated information section to learn more about MDPI.
+
+
+
+Abstract:
+Business models providing used clothing to consumers have the potential to increase the use of each garment and thereby reduce pressure on raw materials and primary production. This research used in-depth interviews complemented by a literature review to improve the understanding of the business models and the ways in which they can impact the environment. In total, the interviews were carried out with seven business owners and six experts in clothing sustainability, product lifespan extension, and circular business models. Examples of business models of interest include businesses selling secondhand clothes and businesses renting clothes to customers. A typology of business models is used to understand how each model impacts the environment and to highlight the factors that contribute most to the impacts that need to be managed. Business models vary in how they impact the environment, through differences in the way they manage transport, storage, and cleaning. Business models also vary in how successfully they reduce the environmental impacts from the production of new garments by increasing the number of times different wearers wear a garment and reducing the need to buy new garments. This effect is referred to as displacement, and the displacement rate provides an indication of the efficiency of reuse models in reducing total volumes of throughput. Indeed, some new business models may not have reduced throughput as a goal at all, and appraisal of this is crucial to understanding the environmental impacts of the various models.
+
+
+Keywords: clothing; slow consumption; resale; rental; leasing; secondhand clothing; reuse; repair services; circular economy
+
+
+
+
+
+
+Gray, S.; Druckman, A.; Sadhukhan, J.; James, K.
+Reducing the Environmental Impact of Clothing: An Exploration of the Potential of Alternative Business Models. Sustainability 2022, 14, 6292.
+https://doi.org/10.3390/su14106292
+
+
+Gray S, Druckman A, Sadhukhan J, James K.
+Reducing the Environmental Impact of Clothing: An Exploration of the Potential of Alternative Business Models. Sustainability. 2022; 14(10):6292.
+https://doi.org/10.3390/su14106292
+
+
+Gray, Sarah, Angela Druckman, Jhuma Sadhukhan, and Keith James.
+2022. "Reducing the Environmental Impact of Clothing: An Exploration of the Potential of Alternative Business Models" Sustainability 14, no. 10: 6292.
+https://doi.org/10.3390/su14106292
+
+
+Gray, S.; Druckman, A.; Sadhukhan, J.; James, K.
+Reducing the Environmental Impact of Clothing: An Exploration of the Potential of Alternative Business Models. Sustainability 2022, 14, 6292.
+https://doi.org/10.3390/su14106292
+
+
+Gray S, Druckman A, Sadhukhan J, James K.
+Reducing the Environmental Impact of Clothing: An Exploration of the Potential of Alternative Business Models. Sustainability. 2022; 14(10):6292.
+https://doi.org/10.3390/su14106292
+
+
+Gray, Sarah, Angela Druckman, Jhuma Sadhukhan, and Keith James.
+2022. "Reducing the Environmental Impact of Clothing: An Exploration of the Potential of Alternative Business Models" Sustainability 14, no. 10: 6292.
+https://doi.org/10.3390/su14106292
+
+
+Subscribe to receive issue release notifications and newsletters from MDPI journals
+
+
+Login
+
+
+Show full item record
+
+
+You are accessing a machine-readable page. In order to be human-readable, please install an RSS reader.
+
+
+All articles published by MDPI are made immediately available worldwide under an open access license. No special
+permission is required to reuse all or part of the article published by MDPI, including figures and tables. For
+articles published under an open access Creative Common CC BY license, any part of the article may be reused without
+permission provided that the original article is clearly cited. For more information, please refer to
+https://www.mdpi.com/openaccess.
+
+
+Feature papers represent the most advanced research with significant potential for high impact in the field. A Feature
+Paper should be a substantial original Article that involves several techniques or approaches, provides an outlook for
+future research directions and describes possible research applications.
+
+
+Feature papers are submitted upon individual invitation or recommendation by the scientific editors and must receive
+positive feedback from the reviewers.
+
+
+Editor’s Choice articles are based on recommendations by the scientific editors of MDPI journals from around the world.
+Editors select a small number of articles recently published in the journal that they believe will be particularly
+interesting to readers, or important in the respective research area. The aim is to provide a snapshot of some of the
+most exciting work published in the various research areas of the journal.
+
+
+
+
+
+
+Find support for a specific problem in the support section of our website.
+
+
+Please let us know what you think of our products and services.
+
+
+Visit our dedicated information section to learn more about MDPI.
+
+
+
+Abstract:
+The fashion industry is at a stage of profound transformation of its operating paradigm. Because of their stakeholders’ pressure, companies have begun to pursue strategic solutions that include sustainability as a guiding principle. Such strategies push for effective organizational solutions and production models that take into consideration the conservation of the planet’s resources, respect for people, and the sustainability of their profits. In this context, the fashion industry is now recognizing the circular economy (CE) as the primary BM to address sustainability-related industry issues. The authors have adopted a specific technological-driven perspective that attempts to analyze today’s context and map digitally driven practices in European fashion companies. These practices are emerging to support fashion organizations so that they can focus their sustainability agendas and better implement circular BMs. This perspective is consistent with the current fashion context, where digital transformation is recognized as an asset that could transform the industry into a more sustainable business. This proposed objective is realized through an iterative process of modeling data. The BMIs identified here are grouped according to Bocken’s eight archetypes: maximize material and energy efficiency; create value from ‘waste’; substitute with renewables and natural processes; deliver functionality rather than ownership; adopt a stewardship role; encourage sufficiency; re-purpose the business for society/the environment and develop scale-up solutions. They guide the authors in modeling mechanisms and solutions that help build business innovations that work to ensure circularity. Analyzing the current best practices, this article introduces a taxonomy that highlights current approaches that lead to incremental changes toward CE through digital solutions.
+
+
+Keywords: fashion design; circularity; sustainability; digital transformation
+
+
+
+
+
+
+Colombi, C.; D’Itria, E.
+Fashion Digital Transformation: Innovating Business Models toward Circular Economy and Sustainability. Sustainability 2023, 15, 4942.
+https://doi.org/10.3390/su15064942
+
+
+Colombi C, D’Itria E.
+Fashion Digital Transformation: Innovating Business Models toward Circular Economy and Sustainability. Sustainability. 2023; 15(6):4942.
+https://doi.org/10.3390/su15064942
+
+
+Colombi, Chiara, and Erminia D’Itria.
+2023. "Fashion Digital Transformation: Innovating Business Models toward Circular Economy and Sustainability" Sustainability 15, no. 6: 4942.
+https://doi.org/10.3390/su15064942
+
+
+Colombi, C.; D’Itria, E.
+Fashion Digital Transformation: Innovating Business Models toward Circular Economy and Sustainability. Sustainability 2023, 15, 4942.
+https://doi.org/10.3390/su15064942
+
+
+Colombi C, D’Itria E.
+Fashion Digital Transformation: Innovating Business Models toward Circular Economy and Sustainability. Sustainability. 2023; 15(6):4942.
+https://doi.org/10.3390/su15064942
+
+
+Colombi, Chiara, and Erminia D’Itria.
+2023. "Fashion Digital Transformation: Innovating Business Models toward Circular Economy and Sustainability" Sustainability 15, no. 6: 4942.
+https://doi.org/10.3390/su15064942
+
+
+Subscribe to receive issue release notifications and newsletters from MDPI journals
+
+
+You are accessing a machine-readable page. In order to be human-readable, please install an RSS reader.
+
+
+All articles published by MDPI are made immediately available worldwide under an open access license. No special
+permission is required to reuse all or part of the article published by MDPI, including figures and tables. For
+articles published under an open access Creative Common CC BY license, any part of the article may be reused without
+permission provided that the original article is clearly cited. For more information, please refer to
+https://www.mdpi.com/openaccess.
+
+
+Feature papers represent the most advanced research with significant potential for high impact in the field. A Feature
+Paper should be a substantial original Article that involves several techniques or approaches, provides an outlook for
+future research directions and describes possible research applications.
+
+
+Feature papers are submitted upon individual invitation or recommendation by the scientific editors and must receive
+positive feedback from the reviewers.
+
+
+Editor’s Choice articles are based on recommendations by the scientific editors of MDPI journals from around the world.
+Editors select a small number of articles recently published in the journal that they believe will be particularly
+interesting to readers, or important in the respective research area. The aim is to provide a snapshot of some of the
+most exciting work published in the various research areas of the journal.
+
+
+
+
+
+
+Find support for a specific problem in the support section of our website.
+
+
+Please let us know what you think of our products and services.
+
+
+Visit our dedicated information section to learn more about MDPI.
+
+
+
+Abstract:
+Business models providing used clothing to consumers have the potential to increase the use of each garment and thereby reduce pressure on raw materials and primary production. This research used in-depth interviews complemented by a literature review to improve the understanding of the business models and the ways in which they can impact the environment. In total, the interviews were carried out with seven business owners and six experts in clothing sustainability, product lifespan extension, and circular business models. Examples of business models of interest include businesses selling secondhand clothes and businesses renting clothes to customers. A typology of business models is used to understand how each model impacts the environment and to highlight the factors that contribute most to the impacts that need to be managed. Business models vary in how they impact the environment, through differences in the way they manage transport, storage, and cleaning. Business models also vary in how successfully they reduce the environmental impacts from the production of new garments by increasing the number of times different wearers wear a garment and reducing the need to buy new garments. This effect is referred to as displacement, and the displacement rate provides an indication of the efficiency of reuse models in reducing total volumes of throughput. Indeed, some new business models may not have reduced throughput as a goal at all, and appraisal of this is crucial to understanding the environmental impacts of the various models.
+
+
+Keywords: clothing; slow consumption; resale; rental; leasing; secondhand clothing; reuse; repair services; circular economy
+
+
+
+
+
+
+Gray, S.; Druckman, A.; Sadhukhan, J.; James, K.
+Reducing the Environmental Impact of Clothing: An Exploration of the Potential of Alternative Business Models. Sustainability 2022, 14, 6292.
+https://doi.org/10.3390/su14106292
+
+
+Gray S, Druckman A, Sadhukhan J, James K.
+Reducing the Environmental Impact of Clothing: An Exploration of the Potential of Alternative Business Models. Sustainability. 2022; 14(10):6292.
+https://doi.org/10.3390/su14106292
+
+
+Gray, Sarah, Angela Druckman, Jhuma Sadhukhan, and Keith James.
+2022. "Reducing the Environmental Impact of Clothing: An Exploration of the Potential of Alternative Business Models" Sustainability 14, no. 10: 6292.
+https://doi.org/10.3390/su14106292
+
+
+Gray, S.; Druckman, A.; Sadhukhan, J.; James, K.
+Reducing the Environmental Impact of Clothing: An Exploration of the Potential of Alternative Business Models. Sustainability 2022, 14, 6292.
+https://doi.org/10.3390/su14106292
+
+
+Gray S, Druckman A, Sadhukhan J, James K.
+Reducing the Environmental Impact of Clothing: An Exploration of the Potential of Alternative Business Models. Sustainability. 2022; 14(10):6292.
+https://doi.org/10.3390/su14106292
+
+
+Gray, Sarah, Angela Druckman, Jhuma Sadhukhan, and Keith James.
+2022. "Reducing the Environmental Impact of Clothing: An Exploration of the Potential of Alternative Business Models" Sustainability 14, no. 10: 6292.
+https://doi.org/10.3390/su14106292
+
+
+Subscribe to receive issue release notifications and newsletters from MDPI journals
+
+
+Login
+
+
+Show full item record
+
+
+You are accessing a machine-readable page. In order to be human-readable, please install an RSS reader.
+
+
+All articles published by MDPI are made immediately available worldwide under an open access license. No special
+permission is required to reuse all or part of the article published by MDPI, including figures and tables. For
+articles published under an open access Creative Common CC BY license, any part of the article may be reused without
+permission provided that the original article is clearly cited. For more information, please refer to
+https://www.mdpi.com/openaccess.
+
+
+Feature papers represent the most advanced research with significant potential for high impact in the field. A Feature
+Paper should be a substantial original Article that involves several techniques or approaches, provides an outlook for
+future research directions and describes possible research applications.
+
+
+Feature papers are submitted upon individual invitation or recommendation by the scientific editors and must receive
+positive feedback from the reviewers.
+
+
+Editor’s Choice articles are based on recommendations by the scientific editors of MDPI journals from around the world.
+Editors select a small number of articles recently published in the journal that they believe will be particularly
+interesting to readers, or important in the respective research area. The aim is to provide a snapshot of some of the
+most exciting work published in the various research areas of the journal.
+
+
+
+
+
+
+Find support for a specific problem in the support section of our website.
+
+
+Please let us know what you think of our products and services.
+
+
+Visit our dedicated information section to learn more about MDPI.
+
+
+
+Abstract:
+The fashion industry is at a stage of profound transformation of its operating paradigm. Because of their stakeholders’ pressure, companies have begun to pursue strategic solutions that include sustainability as a guiding principle. Such strategies push for effective organizational solutions and production models that take into consideration the conservation of the planet’s resources, respect for people, and the sustainability of their profits. In this context, the fashion industry is now recognizing the circular economy (CE) as the primary BM to address sustainability-related industry issues. The authors have adopted a specific technological-driven perspective that attempts to analyze today’s context and map digitally driven practices in European fashion companies. These practices are emerging to support fashion organizations so that they can focus their sustainability agendas and better implement circular BMs. This perspective is consistent with the current fashion context, where digital transformation is recognized as an asset that could transform the industry into a more sustainable business. This proposed objective is realized through an iterative process of modeling data. The BMIs identified here are grouped according to Bocken’s eight archetypes: maximize material and energy efficiency; create value from ‘waste’; substitute with renewables and natural processes; deliver functionality rather than ownership; adopt a stewardship role; encourage sufficiency; re-purpose the business for society/the environment and develop scale-up solutions. They guide the authors in modeling mechanisms and solutions that help build business innovations that work to ensure circularity. Analyzing the current best practices, this article introduces a taxonomy that highlights current approaches that lead to incremental changes toward CE through digital solutions.
+
+
+Keywords: fashion design; circularity; sustainability; digital transformation
+
+
+
+
+
+
+Colombi, C.; D’Itria, E.
+Fashion Digital Transformation: Innovating Business Models toward Circular Economy and Sustainability. Sustainability 2023, 15, 4942.
+https://doi.org/10.3390/su15064942
+
+
+Colombi C, D’Itria E.
+Fashion Digital Transformation: Innovating Business Models toward Circular Economy and Sustainability. Sustainability. 2023; 15(6):4942.
+https://doi.org/10.3390/su15064942
+
+
+Colombi, Chiara, and Erminia D’Itria.
+2023. "Fashion Digital Transformation: Innovating Business Models toward Circular Economy and Sustainability" Sustainability 15, no. 6: 4942.
+https://doi.org/10.3390/su15064942
+
+
+Colombi, C.; D’Itria, E.
+Fashion Digital Transformation: Innovating Business Models toward Circular Economy and Sustainability. Sustainability 2023, 15, 4942.
+https://doi.org/10.3390/su15064942
+
+
+Colombi C, D’Itria E.
+Fashion Digital Transformation: Innovating Business Models toward Circular Economy and Sustainability. Sustainability. 2023; 15(6):4942.
+https://doi.org/10.3390/su15064942
+
+
+Colombi, Chiara, and Erminia D’Itria.
+2023. "Fashion Digital Transformation: Innovating Business Models toward Circular Economy and Sustainability" Sustainability 15, no. 6: 4942.
+https://doi.org/10.3390/su15064942
+
+
+Subscribe to receive issue release notifications and newsletters from MDPI journals
+
+
+You are accessing a machine-readable page. In order to be human-readable, please install an RSS reader.
+
+
+All articles published by MDPI are made immediately available worldwide under an open access license. No special
+permission is required to reuse all or part of the article published by MDPI, including figures and tables. For
+articles published under an open access Creative Common CC BY license, any part of the article may be reused without
+permission provided that the original article is clearly cited. For more information, please refer to
+https://www.mdpi.com/openaccess.
+
+
+Feature papers represent the most advanced research with significant potential for high impact in the field. A Feature
+Paper should be a substantial original Article that involves several techniques or approaches, provides an outlook for
+future research directions and describes possible research applications.
+
+
+Feature papers are submitted upon individual invitation or recommendation by the scientific editors and must receive
+positive feedback from the reviewers.
+
+
+Editor’s Choice articles are based on recommendations by the scientific editors of MDPI journals from around the world.
+Editors select a small number of articles recently published in the journal that they believe will be particularly
+interesting to readers, or important in the respective research area. The aim is to provide a snapshot of some of the
+most exciting work published in the various research areas of the journal.
+
+
+
+
+
+
+Find support for a specific problem in the support section of our website.
+
+
+Please let us know what you think of our products and services.
+
+
+Visit our dedicated information section to learn more about MDPI.
+
+
+
+Abstract:
+Business models providing used clothing to consumers have the potential to increase the use of each garment and thereby reduce pressure on raw materials and primary production. This research used in-depth interviews complemented by a literature review to improve the understanding of the business models and the ways in which they can impact the environment. In total, the interviews were carried out with seven business owners and six experts in clothing sustainability, product lifespan extension, and circular business models. Examples of business models of interest include businesses selling secondhand clothes and businesses renting clothes to customers. A typology of business models is used to understand how each model impacts the environment and to highlight the factors that contribute most to the impacts that need to be managed. Business models vary in how they impact the environment, through differences in the way they manage transport, storage, and cleaning. Business models also vary in how successfully they reduce the environmental impacts from the production of new garments by increasing the number of times different wearers wear a garment and reducing the need to buy new garments. This effect is referred to as displacement, and the displacement rate provides an indication of the efficiency of reuse models in reducing total volumes of throughput. Indeed, some new business models may not have reduced throughput as a goal at all, and appraisal of this is crucial to understanding the environmental impacts of the various models.
+
+
+Keywords: clothing; slow consumption; resale; rental; leasing; secondhand clothing; reuse; repair services; circular economy
+
+
+
+
+
+
+Gray, S.; Druckman, A.; Sadhukhan, J.; James, K.
+Reducing the Environmental Impact of Clothing: An Exploration of the Potential of Alternative Business Models. Sustainability 2022, 14, 6292.
+https://doi.org/10.3390/su14106292
+
+
+Gray S, Druckman A, Sadhukhan J, James K.
+Reducing the Environmental Impact of Clothing: An Exploration of the Potential of Alternative Business Models. Sustainability. 2022; 14(10):6292.
+https://doi.org/10.3390/su14106292
+
+
+Gray, Sarah, Angela Druckman, Jhuma Sadhukhan, and Keith James.
+2022. "Reducing the Environmental Impact of Clothing: An Exploration of the Potential of Alternative Business Models" Sustainability 14, no. 10: 6292.
+https://doi.org/10.3390/su14106292
+
+
+Gray, S.; Druckman, A.; Sadhukhan, J.; James, K.
+Reducing the Environmental Impact of Clothing: An Exploration of the Potential of Alternative Business Models. Sustainability 2022, 14, 6292.
+https://doi.org/10.3390/su14106292
+
+
+Gray S, Druckman A, Sadhukhan J, James K.
+Reducing the Environmental Impact of Clothing: An Exploration of the Potential of Alternative Business Models. Sustainability. 2022; 14(10):6292.
+https://doi.org/10.3390/su14106292
+
+
+Gray, Sarah, Angela Druckman, Jhuma Sadhukhan, and Keith James.
+2022. "Reducing the Environmental Impact of Clothing: An Exploration of the Potential of Alternative Business Models" Sustainability 14, no. 10: 6292.
+https://doi.org/10.3390/su14106292
+
+
+Subscribe to receive issue release notifications and newsletters from MDPI journals
+
+
+Login
+
+
+Show full item record
+
+
+You are accessing a machine-readable page. In order to be human-readable, please install an RSS reader.
+
+
+All articles published by MDPI are made immediately available worldwide under an open access license. No special
+permission is required to reuse all or part of the article published by MDPI, including figures and tables. For
+articles published under an open access Creative Common CC BY license, any part of the article may be reused without
+permission provided that the original article is clearly cited. For more information, please refer to
+https://www.mdpi.com/openaccess.
+
+
+Feature papers represent the most advanced research with significant potential for high impact in the field. A Feature
+Paper should be a substantial original Article that involves several techniques or approaches, provides an outlook for
+future research directions and describes possible research applications.
+
+
+Feature papers are submitted upon individual invitation or recommendation by the scientific editors and must receive
+positive feedback from the reviewers.
+
+
+Editor’s Choice articles are based on recommendations by the scientific editors of MDPI journals from around the world.
+Editors select a small number of articles recently published in the journal that they believe will be particularly
+interesting to readers, or important in the respective research area. The aim is to provide a snapshot of some of the
+most exciting work published in the various research areas of the journal.
+
+
+
+
+
+
+Find support for a specific problem in the support section of our website.
+
+
+Please let us know what you think of our products and services.
+
+
+Visit our dedicated information section to learn more about MDPI.
+
+
+
+Abstract:
+The fashion industry is at a stage of profound transformation of its operating paradigm. Because of their stakeholders’ pressure, companies have begun to pursue strategic solutions that include sustainability as a guiding principle. Such strategies push for effective organizational solutions and production models that take into consideration the conservation of the planet’s resources, respect for people, and the sustainability of their profits. In this context, the fashion industry is now recognizing the circular economy (CE) as the primary BM to address sustainability-related industry issues. The authors have adopted a specific technological-driven perspective that attempts to analyze today’s context and map digitally driven practices in European fashion companies. These practices are emerging to support fashion organizations so that they can focus their sustainability agendas and better implement circular BMs. This perspective is consistent with the current fashion context, where digital transformation is recognized as an asset that could transform the industry into a more sustainable business. This proposed objective is realized through an iterative process of modeling data. The BMIs identified here are grouped according to Bocken’s eight archetypes: maximize material and energy efficiency; create value from ‘waste’; substitute with renewables and natural processes; deliver functionality rather than ownership; adopt a stewardship role; encourage sufficiency; re-purpose the business for society/the environment and develop scale-up solutions. They guide the authors in modeling mechanisms and solutions that help build business innovations that work to ensure circularity. Analyzing the current best practices, this article introduces a taxonomy that highlights current approaches that lead to incremental changes toward CE through digital solutions.
+
+
+Keywords: fashion design; circularity; sustainability; digital transformation
+
+
+
+
+
+
+Colombi, C.; D’Itria, E.
+Fashion Digital Transformation: Innovating Business Models toward Circular Economy and Sustainability. Sustainability 2023, 15, 4942.
+https://doi.org/10.3390/su15064942
+
+
+Colombi C, D’Itria E.
+Fashion Digital Transformation: Innovating Business Models toward Circular Economy and Sustainability. Sustainability. 2023; 15(6):4942.
+https://doi.org/10.3390/su15064942
+
+
+Colombi, Chiara, and Erminia D’Itria.
+2023. "Fashion Digital Transformation: Innovating Business Models toward Circular Economy and Sustainability" Sustainability 15, no. 6: 4942.
+https://doi.org/10.3390/su15064942
+
+
+Colombi, C.; D’Itria, E.
+Fashion Digital Transformation: Innovating Business Models toward Circular Economy and Sustainability. Sustainability 2023, 15, 4942.
+https://doi.org/10.3390/su15064942
+
+
+Colombi C, D’Itria E.
+Fashion Digital Transformation: Innovating Business Models toward Circular Economy and Sustainability. Sustainability. 2023; 15(6):4942.
+https://doi.org/10.3390/su15064942
+
+
+Colombi, Chiara, and Erminia D’Itria.
+2023. "Fashion Digital Transformation: Innovating Business Models toward Circular Economy and Sustainability" Sustainability 15, no. 6: 4942.
+https://doi.org/10.3390/su15064942
+
+
+Subscribe to receive issue release notifications and newsletters from MDPI journals
+
+
+You are accessing a machine-readable page. In order to be human-readable, please install an RSS reader.
+
+
+All articles published by MDPI are made immediately available worldwide under an open access license. No special
+permission is required to reuse all or part of the article published by MDPI, including figures and tables. For
+articles published under an open access Creative Common CC BY license, any part of the article may be reused without
+permission provided that the original article is clearly cited. For more information, please refer to
+https://www.mdpi.com/openaccess.
+
+
+Feature papers represent the most advanced research with significant potential for high impact in the field. A Feature
+Paper should be a substantial original Article that involves several techniques or approaches, provides an outlook for
+future research directions and describes possible research applications.
+
+
+Feature papers are submitted upon individual invitation or recommendation by the scientific editors and must receive
+positive feedback from the reviewers.
+
+
+Editor’s Choice articles are based on recommendations by the scientific editors of MDPI journals from around the world.
+Editors select a small number of articles recently published in the journal that they believe will be particularly
+interesting to readers, or important in the respective research area. The aim is to provide a snapshot of some of the
+most exciting work published in the various research areas of the journal.
+
+
+
+
+
+
+Find support for a specific problem in the support section of our website.
+
+
+Please let us know what you think of our products and services.
+
+
+Visit our dedicated information section to learn more about MDPI.
+
+
+
+Abstract:
+Business models providing used clothing to consumers have the potential to increase the use of each garment and thereby reduce pressure on raw materials and primary production. This research used in-depth interviews complemented by a literature review to improve the understanding of the business models and the ways in which they can impact the environment. In total, the interviews were carried out with seven business owners and six experts in clothing sustainability, product lifespan extension, and circular business models. Examples of business models of interest include businesses selling secondhand clothes and businesses renting clothes to customers. A typology of business models is used to understand how each model impacts the environment and to highlight the factors that contribute most to the impacts that need to be managed. Business models vary in how they impact the environment, through differences in the way they manage transport, storage, and cleaning. Business models also vary in how successfully they reduce the environmental impacts from the production of new garments by increasing the number of times different wearers wear a garment and reducing the need to buy new garments. This effect is referred to as displacement, and the displacement rate provides an indication of the efficiency of reuse models in reducing total volumes of throughput. Indeed, some new business models may not have reduced throughput as a goal at all, and appraisal of this is crucial to understanding the environmental impacts of the various models.
+
+
+Keywords: clothing; slow consumption; resale; rental; leasing; secondhand clothing; reuse; repair services; circular economy
+
+
+
+
+
+
+Gray, S.; Druckman, A.; Sadhukhan, J.; James, K.
+Reducing the Environmental Impact of Clothing: An Exploration of the Potential of Alternative Business Models. Sustainability 2022, 14, 6292.
+https://doi.org/10.3390/su14106292
+
+
+Gray S, Druckman A, Sadhukhan J, James K.
+Reducing the Environmental Impact of Clothing: An Exploration of the Potential of Alternative Business Models. Sustainability. 2022; 14(10):6292.
+https://doi.org/10.3390/su14106292
+
+
+Gray, Sarah, Angela Druckman, Jhuma Sadhukhan, and Keith James.
+2022. "Reducing the Environmental Impact of Clothing: An Exploration of the Potential of Alternative Business Models" Sustainability 14, no. 10: 6292.
+https://doi.org/10.3390/su14106292
+
+
+Gray, S.; Druckman, A.; Sadhukhan, J.; James, K.
+Reducing the Environmental Impact of Clothing: An Exploration of the Potential of Alternative Business Models. Sustainability 2022, 14, 6292.
+https://doi.org/10.3390/su14106292
+
+
+Gray S, Druckman A, Sadhukhan J, James K.
+Reducing the Environmental Impact of Clothing: An Exploration of the Potential of Alternative Business Models. Sustainability. 2022; 14(10):6292.
+https://doi.org/10.3390/su14106292
+
+
+Gray, Sarah, Angela Druckman, Jhuma Sadhukhan, and Keith James.
+2022. "Reducing the Environmental Impact of Clothing: An Exploration of the Potential of Alternative Business Models" Sustainability 14, no. 10: 6292.
+https://doi.org/10.3390/su14106292
+
+
+Subscribe to receive issue release notifications and newsletters from MDPI journals
+
+
+Login
+
+
+Show full item record
+
+
+You are accessing a machine-readable page. In order to be human-readable, please install an RSS reader.
+
+
+All articles published by MDPI are made immediately available worldwide under an open access license. No special
+permission is required to reuse all or part of the article published by MDPI, including figures and tables. For
+articles published under an open access Creative Common CC BY license, any part of the article may be reused without
+permission provided that the original article is clearly cited. For more information, please refer to
+https://www.mdpi.com/openaccess.
+
+
+Feature papers represent the most advanced research with significant potential for high impact in the field. A Feature
+Paper should be a substantial original Article that involves several techniques or approaches, provides an outlook for
+future research directions and describes possible research applications.
+
+
+Feature papers are submitted upon individual invitation or recommendation by the scientific editors and must receive
+positive feedback from the reviewers.
+
+
+Editor’s Choice articles are based on recommendations by the scientific editors of MDPI journals from around the world.
+Editors select a small number of articles recently published in the journal that they believe will be particularly
+interesting to readers, or important in the respective research area. The aim is to provide a snapshot of some of the
+most exciting work published in the various research areas of the journal.
+
+
+
+
+
+
+Find support for a specific problem in the support section of our website.
+
+
+Please let us know what you think of our products and services.
+
+
+Visit our dedicated information section to learn more about MDPI.
+
+
+
+Abstract:
+The fashion industry is at a stage of profound transformation of its operating paradigm. Because of their stakeholders’ pressure, companies have begun to pursue strategic solutions that include sustainability as a guiding principle. Such strategies push for effective organizational solutions and production models that take into consideration the conservation of the planet’s resources, respect for people, and the sustainability of their profits. In this context, the fashion industry is now recognizing the circular economy (CE) as the primary BM to address sustainability-related industry issues. The authors have adopted a specific technological-driven perspective that attempts to analyze today’s context and map digitally driven practices in European fashion companies. These practices are emerging to support fashion organizations so that they can focus their sustainability agendas and better implement circular BMs. This perspective is consistent with the current fashion context, where digital transformation is recognized as an asset that could transform the industry into a more sustainable business. This proposed objective is realized through an iterative process of modeling data. The BMIs identified here are grouped according to Bocken’s eight archetypes: maximize material and energy efficiency; create value from ‘waste’; substitute with renewables and natural processes; deliver functionality rather than ownership; adopt a stewardship role; encourage sufficiency; re-purpose the business for society/the environment and develop scale-up solutions. They guide the authors in modeling mechanisms and solutions that help build business innovations that work to ensure circularity. Analyzing the current best practices, this article introduces a taxonomy that highlights current approaches that lead to incremental changes toward CE through digital solutions.
+
+
+Keywords: fashion design; circularity; sustainability; digital transformation
+
+
+
+
+
+
+Colombi, C.; D’Itria, E.
+Fashion Digital Transformation: Innovating Business Models toward Circular Economy and Sustainability. Sustainability 2023, 15, 4942.
+https://doi.org/10.3390/su15064942
+
+
+Colombi C, D’Itria E.
+Fashion Digital Transformation: Innovating Business Models toward Circular Economy and Sustainability. Sustainability. 2023; 15(6):4942.
+https://doi.org/10.3390/su15064942
+
+
+Colombi, Chiara, and Erminia D’Itria.
+2023. "Fashion Digital Transformation: Innovating Business Models toward Circular Economy and Sustainability" Sustainability 15, no. 6: 4942.
+https://doi.org/10.3390/su15064942
+
+
+Colombi, C.; D’Itria, E.
+Fashion Digital Transformation: Innovating Business Models toward Circular Economy and Sustainability. Sustainability 2023, 15, 4942.
+https://doi.org/10.3390/su15064942
+
+
+Colombi C, D’Itria E.
+Fashion Digital Transformation: Innovating Business Models toward Circular Economy and Sustainability. Sustainability. 2023; 15(6):4942.
+https://doi.org/10.3390/su15064942
+
+
+Colombi, Chiara, and Erminia D’Itria.
+2023. "Fashion Digital Transformation: Innovating Business Models toward Circular Economy and Sustainability" Sustainability 15, no. 6: 4942.
+https://doi.org/10.3390/su15064942
+
+
+Subscribe to receive issue release notifications and newsletters from MDPI journals
+
+
+You are accessing a machine-readable page. In order to be human-readable, please install an RSS reader.
+
+
+All articles published by MDPI are made immediately available worldwide under an open access license. No special
+permission is required to reuse all or part of the article published by MDPI, including figures and tables. For
+articles published under an open access Creative Common CC BY license, any part of the article may be reused without
+permission provided that the original article is clearly cited. For more information, please refer to
+https://www.mdpi.com/openaccess.
+
+
+Feature papers represent the most advanced research with significant potential for high impact in the field. A Feature
+Paper should be a substantial original Article that involves several techniques or approaches, provides an outlook for
+future research directions and describes possible research applications.
+
+
+Feature papers are submitted upon individual invitation or recommendation by the scientific editors and must receive
+positive feedback from the reviewers.
+
+
+Editor’s Choice articles are based on recommendations by the scientific editors of MDPI journals from around the world.
+Editors select a small number of articles recently published in the journal that they believe will be particularly
+interesting to readers, or important in the respective research area. The aim is to provide a snapshot of some of the
+most exciting work published in the various research areas of the journal.
+
+
+
+
+
+
+Find support for a specific problem in the support section of our website.
+
+
+Please let us know what you think of our products and services.
+
+
+Visit our dedicated information section to learn more about MDPI.
+
+
+
+Abstract:
+Business models providing used clothing to consumers have the potential to increase the use of each garment and thereby reduce pressure on raw materials and primary production. This research used in-depth interviews complemented by a literature review to improve the understanding of the business models and the ways in which they can impact the environment. In total, the interviews were carried out with seven business owners and six experts in clothing sustainability, product lifespan extension, and circular business models. Examples of business models of interest include businesses selling secondhand clothes and businesses renting clothes to customers. A typology of business models is used to understand how each model impacts the environment and to highlight the factors that contribute most to the impacts that need to be managed. Business models vary in how they impact the environment, through differences in the way they manage transport, storage, and cleaning. Business models also vary in how successfully they reduce the environmental impacts from the production of new garments by increasing the number of times different wearers wear a garment and reducing the need to buy new garments. This effect is referred to as displacement, and the displacement rate provides an indication of the efficiency of reuse models in reducing total volumes of throughput. Indeed, some new business models may not have reduced throughput as a goal at all, and appraisal of this is crucial to understanding the environmental impacts of the various models.
+
+
+Keywords: clothing; slow consumption; resale; rental; leasing; secondhand clothing; reuse; repair services; circular economy
+
+
+
+
+
+
+Gray, S.; Druckman, A.; Sadhukhan, J.; James, K.
+Reducing the Environmental Impact of Clothing: An Exploration of the Potential of Alternative Business Models. Sustainability 2022, 14, 6292.
+https://doi.org/10.3390/su14106292
+
+
+Gray S, Druckman A, Sadhukhan J, James K.
+Reducing the Environmental Impact of Clothing: An Exploration of the Potential of Alternative Business Models. Sustainability. 2022; 14(10):6292.
+https://doi.org/10.3390/su14106292
+
+
+Gray, Sarah, Angela Druckman, Jhuma Sadhukhan, and Keith James.
+2022. "Reducing the Environmental Impact of Clothing: An Exploration of the Potential of Alternative Business Models" Sustainability 14, no. 10: 6292.
+https://doi.org/10.3390/su14106292
+
+
+Gray, S.; Druckman, A.; Sadhukhan, J.; James, K.
+Reducing the Environmental Impact of Clothing: An Exploration of the Potential of Alternative Business Models. Sustainability 2022, 14, 6292.
+https://doi.org/10.3390/su14106292
+
+
+Gray S, Druckman A, Sadhukhan J, James K.
+Reducing the Environmental Impact of Clothing: An Exploration of the Potential of Alternative Business Models. Sustainability. 2022; 14(10):6292.
+https://doi.org/10.3390/su14106292
+
+
+Gray, Sarah, Angela Druckman, Jhuma Sadhukhan, and Keith James.
+2022. "Reducing the Environmental Impact of Clothing: An Exploration of the Potential of Alternative Business Models" Sustainability 14, no. 10: 6292.
+https://doi.org/10.3390/su14106292
+
+
+Subscribe to receive issue release notifications and newsletters from MDPI journals
+
+
+Login
+
+
+Show full item record
+
+
+You are accessing a machine-readable page. In order to be human-readable, please install an RSS reader.
+
+
+All articles published by MDPI are made immediately available worldwide under an open access license. No special
+permission is required to reuse all or part of the article published by MDPI, including figures and tables. For
+articles published under an open access Creative Common CC BY license, any part of the article may be reused without
+permission provided that the original article is clearly cited. For more information, please refer to
+https://www.mdpi.com/openaccess.
+
+
+Feature papers represent the most advanced research with significant potential for high impact in the field. A Feature
+Paper should be a substantial original Article that involves several techniques or approaches, provides an outlook for
+future research directions and describes possible research applications.
+
+
+Feature papers are submitted upon individual invitation or recommendation by the scientific editors and must receive
+positive feedback from the reviewers.
+
+
+Editor’s Choice articles are based on recommendations by the scientific editors of MDPI journals from around the world.
+Editors select a small number of articles recently published in the journal that they believe will be particularly
+interesting to readers, or important in the respective research area. The aim is to provide a snapshot of some of the
+most exciting work published in the various research areas of the journal.
+
+
+
+
+
+
+Find support for a specific problem in the support section of our website.
+
+
+Please let us know what you think of our products and services.
+
+
+Visit our dedicated information section to learn more about MDPI.
+
+
+
+Abstract:
+The fashion industry is at a stage of profound transformation of its operating paradigm. Because of their stakeholders’ pressure, companies have begun to pursue strategic solutions that include sustainability as a guiding principle. Such strategies push for effective organizational solutions and production models that take into consideration the conservation of the planet’s resources, respect for people, and the sustainability of their profits. In this context, the fashion industry is now recognizing the circular economy (CE) as the primary BM to address sustainability-related industry issues. The authors have adopted a specific technological-driven perspective that attempts to analyze today’s context and map digitally driven practices in European fashion companies. These practices are emerging to support fashion organizations so that they can focus their sustainability agendas and better implement circular BMs. This perspective is consistent with the current fashion context, where digital transformation is recognized as an asset that could transform the industry into a more sustainable business. This proposed objective is realized through an iterative process of modeling data. The BMIs identified here are grouped according to Bocken’s eight archetypes: maximize material and energy efficiency; create value from ‘waste’; substitute with renewables and natural processes; deliver functionality rather than ownership; adopt a stewardship role; encourage sufficiency; re-purpose the business for society/the environment and develop scale-up solutions. They guide the authors in modeling mechanisms and solutions that help build business innovations that work to ensure circularity. Analyzing the current best practices, this article introduces a taxonomy that highlights current approaches that lead to incremental changes toward CE through digital solutions.
+
+
+Keywords: fashion design; circularity; sustainability; digital transformation
+
+
+
+
+
+
+Colombi, C.; D’Itria, E.
+Fashion Digital Transformation: Innovating Business Models toward Circular Economy and Sustainability. Sustainability 2023, 15, 4942.
+https://doi.org/10.3390/su15064942
+
+
+Colombi C, D’Itria E.
+Fashion Digital Transformation: Innovating Business Models toward Circular Economy and Sustainability. Sustainability. 2023; 15(6):4942.
+https://doi.org/10.3390/su15064942
+
+
+Colombi, Chiara, and Erminia D’Itria.
+2023. "Fashion Digital Transformation: Innovating Business Models toward Circular Economy and Sustainability" Sustainability 15, no. 6: 4942.
+https://doi.org/10.3390/su15064942
+
+
+Colombi, C.; D’Itria, E.
+Fashion Digital Transformation: Innovating Business Models toward Circular Economy and Sustainability. Sustainability 2023, 15, 4942.
+https://doi.org/10.3390/su15064942
+
+
+Colombi C, D’Itria E.
+Fashion Digital Transformation: Innovating Business Models toward Circular Economy and Sustainability. Sustainability. 2023; 15(6):4942.
+https://doi.org/10.3390/su15064942
+
+
+Colombi, Chiara, and Erminia D’Itria.
+2023. "Fashion Digital Transformation: Innovating Business Models toward Circular Economy and Sustainability" Sustainability 15, no. 6: 4942.
+https://doi.org/10.3390/su15064942
+
+
+Subscribe to receive issue release notifications and newsletters from MDPI journals
+
+
+You are accessing a machine-readable page. In order to be human-readable, please install an RSS reader.
+
+
+All articles published by MDPI are made immediately available worldwide under an open access license. No special
+permission is required to reuse all or part of the article published by MDPI, including figures and tables. For
+articles published under an open access Creative Common CC BY license, any part of the article may be reused without
+permission provided that the original article is clearly cited. For more information, please refer to
+https://www.mdpi.com/openaccess.
+
+
+Feature papers represent the most advanced research with significant potential for high impact in the field. A Feature
+Paper should be a substantial original Article that involves several techniques or approaches, provides an outlook for
+future research directions and describes possible research applications.
+
+
+Feature papers are submitted upon individual invitation or recommendation by the scientific editors and must receive
+positive feedback from the reviewers.
+
+
+Editor’s Choice articles are based on recommendations by the scientific editors of MDPI journals from around the world.
+Editors select a small number of articles recently published in the journal that they believe will be particularly
+interesting to readers, or important in the respective research area. The aim is to provide a snapshot of some of the
+most exciting work published in the various research areas of the journal.
+
+
+
+
+
+
+Find support for a specific problem in the support section of our website.
+
+
+Please let us know what you think of our products and services.
+
+
+Visit our dedicated information section to learn more about MDPI.
+
+
+
+Abstract:
+Business models providing used clothing to consumers have the potential to increase the use of each garment and thereby reduce pressure on raw materials and primary production. This research used in-depth interviews complemented by a literature review to improve the understanding of the business models and the ways in which they can impact the environment. In total, the interviews were carried out with seven business owners and six experts in clothing sustainability, product lifespan extension, and circular business models. Examples of business models of interest include businesses selling secondhand clothes and businesses renting clothes to customers. A typology of business models is used to understand how each model impacts the environment and to highlight the factors that contribute most to the impacts that need to be managed. Business models vary in how they impact the environment, through differences in the way they manage transport, storage, and cleaning. Business models also vary in how successfully they reduce the environmental impacts from the production of new garments by increasing the number of times different wearers wear a garment and reducing the need to buy new garments. This effect is referred to as displacement, and the displacement rate provides an indication of the efficiency of reuse models in reducing total volumes of throughput. Indeed, some new business models may not have reduced throughput as a goal at all, and appraisal of this is crucial to understanding the environmental impacts of the various models.
+
+
+Keywords: clothing; slow consumption; resale; rental; leasing; secondhand clothing; reuse; repair services; circular economy
+
+
+
+
+
+
+Gray, S.; Druckman, A.; Sadhukhan, J.; James, K.
+Reducing the Environmental Impact of Clothing: An Exploration of the Potential of Alternative Business Models. Sustainability 2022, 14, 6292.
+https://doi.org/10.3390/su14106292
+
+
+Gray S, Druckman A, Sadhukhan J, James K.
+Reducing the Environmental Impact of Clothing: An Exploration of the Potential of Alternative Business Models. Sustainability. 2022; 14(10):6292.
+https://doi.org/10.3390/su14106292
+
+
+Gray, Sarah, Angela Druckman, Jhuma Sadhukhan, and Keith James.
+2022. "Reducing the Environmental Impact of Clothing: An Exploration of the Potential of Alternative Business Models" Sustainability 14, no. 10: 6292.
+https://doi.org/10.3390/su14106292
+
+
+Gray, S.; Druckman, A.; Sadhukhan, J.; James, K.
+Reducing the Environmental Impact of Clothing: An Exploration of the Potential of Alternative Business Models. Sustainability 2022, 14, 6292.
+https://doi.org/10.3390/su14106292
+
+
+Gray S, Druckman A, Sadhukhan J, James K.
+Reducing the Environmental Impact of Clothing: An Exploration of the Potential of Alternative Business Models. Sustainability. 2022; 14(10):6292.
+https://doi.org/10.3390/su14106292
+
+
+Gray, Sarah, Angela Druckman, Jhuma Sadhukhan, and Keith James.
+2022. "Reducing the Environmental Impact of Clothing: An Exploration of the Potential of Alternative Business Models" Sustainability 14, no. 10: 6292.
+https://doi.org/10.3390/su14106292
+
+
+Subscribe to receive issue release notifications and newsletters from MDPI journals
+
+
+Login
+
+
+Show full item record
+
+
+You are accessing a machine-readable page. In order to be human-readable, please install an RSS reader.
+
+
+All articles published by MDPI are made immediately available worldwide under an open access license. No special
+permission is required to reuse all or part of the article published by MDPI, including figures and tables. For
+articles published under an open access Creative Common CC BY license, any part of the article may be reused without
+permission provided that the original article is clearly cited. For more information, please refer to
+https://www.mdpi.com/openaccess.
+
+
+Feature papers represent the most advanced research with significant potential for high impact in the field. A Feature
+Paper should be a substantial original Article that involves several techniques or approaches, provides an outlook for
+future research directions and describes possible research applications.
+
+
+Feature papers are submitted upon individual invitation or recommendation by the scientific editors and must receive
+positive feedback from the reviewers.
+
+
+Editor’s Choice articles are based on recommendations by the scientific editors of MDPI journals from around the world.
+Editors select a small number of articles recently published in the journal that they believe will be particularly
+interesting to readers, or important in the respective research area. The aim is to provide a snapshot of some of the
+most exciting work published in the various research areas of the journal.
+
+
+
+
+
+
+Find support for a specific problem in the support section of our website.
+
+
+Please let us know what you think of our products and services.
+
+
+Visit our dedicated information section to learn more about MDPI.
+
+
+
+Abstract:
+The fashion industry is at a stage of profound transformation of its operating paradigm. Because of their stakeholders’ pressure, companies have begun to pursue strategic solutions that include sustainability as a guiding principle. Such strategies push for effective organizational solutions and production models that take into consideration the conservation of the planet’s resources, respect for people, and the sustainability of their profits. In this context, the fashion industry is now recognizing the circular economy (CE) as the primary BM to address sustainability-related industry issues. The authors have adopted a specific technological-driven perspective that attempts to analyze today’s context and map digitally driven practices in European fashion companies. These practices are emerging to support fashion organizations so that they can focus their sustainability agendas and better implement circular BMs. This perspective is consistent with the current fashion context, where digital transformation is recognized as an asset that could transform the industry into a more sustainable business. This proposed objective is realized through an iterative process of modeling data. The BMIs identified here are grouped according to Bocken’s eight archetypes: maximize material and energy efficiency; create value from ‘waste’; substitute with renewables and natural processes; deliver functionality rather than ownership; adopt a stewardship role; encourage sufficiency; re-purpose the business for society/the environment and develop scale-up solutions. They guide the authors in modeling mechanisms and solutions that help build business innovations that work to ensure circularity. Analyzing the current best practices, this article introduces a taxonomy that highlights current approaches that lead to incremental changes toward CE through digital solutions.
+
+
+Keywords: fashion design; circularity; sustainability; digital transformation
+
+
+
+
+
+
+Colombi, C.; D’Itria, E.
+Fashion Digital Transformation: Innovating Business Models toward Circular Economy and Sustainability. Sustainability 2023, 15, 4942.
+https://doi.org/10.3390/su15064942
+
+
+Colombi C, D’Itria E.
+Fashion Digital Transformation: Innovating Business Models toward Circular Economy and Sustainability. Sustainability. 2023; 15(6):4942.
+https://doi.org/10.3390/su15064942
+
+
+Colombi, Chiara, and Erminia D’Itria.
+2023. "Fashion Digital Transformation: Innovating Business Models toward Circular Economy and Sustainability" Sustainability 15, no. 6: 4942.
+https://doi.org/10.3390/su15064942
+
+
+Colombi, C.; D’Itria, E.
+Fashion Digital Transformation: Innovating Business Models toward Circular Economy and Sustainability. Sustainability 2023, 15, 4942.
+https://doi.org/10.3390/su15064942
+
+
+Colombi C, D’Itria E.
+Fashion Digital Transformation: Innovating Business Models toward Circular Economy and Sustainability. Sustainability. 2023; 15(6):4942.
+https://doi.org/10.3390/su15064942
+
+
+Colombi, Chiara, and Erminia D’Itria.
+2023. "Fashion Digital Transformation: Innovating Business Models toward Circular Economy and Sustainability" Sustainability 15, no. 6: 4942.
+https://doi.org/10.3390/su15064942
+
+
+Subscribe to receive issue release notifications and newsletters from MDPI journals
+
